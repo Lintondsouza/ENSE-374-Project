@@ -62,7 +62,7 @@ The project must be hosted on GitHub and include:
 ---
 
 **Team Members**:
-- [Member 1]
+- Linton Joswin Dsouza        200470698
 - [Member 2]
 - [Member 3]
 
