@@ -1,4 +1,4 @@
-# Project Title: [Insert Your Project Name]
+# Project Title: GearShare
 
 ## Project Description
 This project involves the design and development of a web-based software application using software engineering management principles and the Model-View-Controller (MVC) architecture. The project is to be completed in teams of 3, and the application must be approved by the instructor. The scope should be small-to-medium to be completed within approximately 2 months.
@@ -62,8 +62,8 @@ The project must be hosted on GitHub and include:
 ---
 
 **Team Members**:
-- Linton Joswin Dsouza        200470698
-- Maheen Siddique             200480228
-- [Member 3]
+- Linton Joswin Dsouza       ( 200470698 )
+- Maheen Siddique            ( 200480228 )
+- Cirus Chakma               ( 200495194 )
 
 
