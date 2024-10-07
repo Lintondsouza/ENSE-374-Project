@@ -64,6 +64,6 @@ The project must be hosted on GitHub and include:
 **Team Members**:
 - Linton Joswin Dsouza        200470698
 - Maheen Siddique             200480228
-- [Member 3]
+- Cirus Chakma                200495194
 
 
