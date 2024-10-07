@@ -1,6 +1,6 @@
 # Project Title: GearShare
 
-## Project Descriptio
+## Project Description
 This project involves the design and development of a web-based software application using software engineering management principles and the Model-View-Controller (MVC) architecture. The project is to be completed in teams of 3, and the application must be approved by the instructor. The scope should be small-to-medium to be completed within approximately 2 months.
 
 ### Example Application Ideas:
