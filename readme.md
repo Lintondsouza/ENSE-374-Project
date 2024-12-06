@@ -46,7 +46,7 @@ The project must be hosted on GitHub and include:
 | 3      | Iterative Engineering Design Process           | Section 3.1 – 3.2      | Week 8    | 20%     |
 | 4      | Final Design and Implementation                | Section 3.3            | Week 12   | 10%     |
 | 5      | Project Management and Conclusion/Future Work  | Section 5 - 6          | Week 14   | 10%     |
-| 6      | Collaborative Teamwork                         | Section 4 (All Weeks)  | Ongoing   | 30%     |
+| 6      | Collaborative Teamwork                         | Section 4 (All Weeks)  | Final Week Completed  | 30%     |
 
 **Note**: Weekly meetings will be held to monitor progress. For every late submission, a 10% penalty will be imposed per day. Hard deadlines are in place (Sunday 23:59:59 of the corresponding week).
 
