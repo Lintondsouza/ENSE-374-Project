@@ -55,11 +55,7 @@ The project must be hosted on GitHub and include:
 - **Submission**: Submit via GitHub. Make frequent commits.
 - **Email Submission**: Include the GitHub project name and the commit hashes for the final submission.
 
-## Engineering Design Process
 
-[Insert detailed engineering design process diagram and explanation]
-
----
 
 **Team Members**:
 - Linton Joswin Dsouza       ( 200470698 )
